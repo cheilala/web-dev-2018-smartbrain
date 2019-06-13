@@ -9,7 +9,9 @@
     "react-particles-js": "^2.2.0",
     "react-scripts": "1.1.4",
     "react-tilt": "^0.1.4",
-    "tachyons": "^4.9.1"
+    "tachyons": "^4.9.1",
+    "url-parse": ">=1.4.3",
+    "handlebars": ">=4.0.14"
   },
   "scripts": {
     "start": "react-scripts start",
