@@ -18,7 +18,7 @@
     "extend": ">=3.0.2",
     "webpack-dev-server": ">=3.1.11",
     "react-dev-utils": ">=5.0.2",
-    "merge": ">=1.2.1"
+    "merge": ">=2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
