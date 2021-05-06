@@ -11,7 +11,7 @@
     "react-tilt": "^0.1.4",
     "tachyons": "^4.9.1",
     "url-parse": ">=1.4.3",
-    "handlebars": ">=4.0.14",
+    "handlebars": ">=4.7.7",
     "js-yaml": ">=3.13.1",
     "axios": ">=0.18.1",
     "lodash": ">=4.17.11",
